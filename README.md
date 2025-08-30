@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AhmedElachry
 - 👀 I’m interested in ... Programming
-- 🌱 I’m currently learning ... Web Development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently Working on ... Web Development
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... ahmedelashry.yt@gmail.com
 
 <!---
